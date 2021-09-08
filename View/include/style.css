@@ -1,0 +1,106 @@
+body, ul, li, p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.3rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+img{
+    height: 80px;
+
+}
+
+header{
+    background-color: #42599C;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu li{
+    margin-left: 10px;
+}
+
+.menu li a{
+    display: block;
+    padding: 10px;
+}
+
+.menu li a:hover{
+    background-color: whitesmoke;
+    color: #42599C;
+}
+
+footer{
+    clear: both;
+    position: static;
+    bottom: 0;
+    background-color: #42599C;
+    width: 100%;
+    height: 50px;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodape li{
+    margin-left: 10px;
+}
+
+.rodape li a{
+    display: block;
+    padding: 10px;
+}
+
+.container{
+    width: 100vw;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+    height: 100%;
+    width: 100vw;
+}
+.quarto{
+    width: 40vw;
+}
+.desc{
+    background-color: rgba(0,0,0,0.45);
+    width: 40vw;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 3vw;
+}
+@media (max-width: 600px){
+    .card{
+        display: block;
+    }
+    .quarto{
+        width: 100vw;
+    }
+    .desc{
+        font-size: 3vw;
+        line-height: 4.5vw;
+        width: 100vw;
+    }
+}
