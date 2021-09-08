@@ -14,9 +14,12 @@
 <body>
     <header>
         <a href="index.php"><img src="logo.png" alt=""></a>
-        <nav>
-            <ul class="menu">
-                <li><a href="index.php">Hotel Por do Sol</a></li>
+        <nav id="nav">
+            <button aria-label="Abrir Menu" id="btn-mobile" aria-haspopup="true" aria-controls="menu" aria-expanded="false">Menu
+
+            <span id="hamburguer"></span>
+            </button>
+            <ul id="menu" role="menu">
                 <li><a href="../Control/controle.php?acao=listar">Acomodações</a></li>
                 <li><a href="restaurante.php">Restaurante</a></li>
                 <li><a href="parceiros.php">Parceiros</a></li>
@@ -25,3 +28,4 @@
             </ul>
         </nav>
     </header>
+    <script src="include/script.js"></script>

@@ -25,22 +25,26 @@ header{
     padding: 5px;
 }
 
-.menu{
+#menu{
     display: flex;
 }
 
-.menu li{
+#menu li{
     margin-left: 10px;
 }
 
-.menu li a{
+#menu li a{
     display: block;
     padding: 10px;
 }
 
-.menu li a:hover{
+#menu li a:hover{
     background-color: whitesmoke;
     color: #42599C;
+}
+
+#btn-mobile{
+    display: none;
 }
 
 footer{
@@ -92,8 +96,67 @@ footer{
     line-height: 3vw;
 }
 @media (max-width: 600px){
-    .card{
+    #menu{
         display: block;
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        right: 0px;
+        background-color: #42599C;
+        transition: .6s;
+        z-index: 1000;
+        height: 0px;
+        visibility: hidden;
+        overflow-y: hidden;
+    }
+    #nav.active #menu{
+        height: calc(100vh - 90px);
+        visibility: visible;
+        overflow-y: auto;
+    }
+    #menu a{
+        padding: 1rem 0;
+        margin: 0 1rem;
+        border-bottom: 2px solid rgba(0,0,0,.10);
+    }
+    #btn-mobile{
+        display: flex;
+        padding: .5rem 1rem;
+        font-size: 1rem;
+        border: none;
+        background: none;
+        cursor: pointer;
+        gap: .5rem;
+    }
+    #hamburguer{
+        display: block;
+        border-top: 2px solid;
+        width: 20px;
+    }
+    #hamburguer::after, #hamburguer::before{
+        content: '';
+        display: block;
+        width: 20px;
+        height: 2px;
+        background: currentColor;
+        margin-top: 5px;
+        transition: .3s;
+        position: relative;
+    }
+    #nav.active #hamburguer{
+        border-top-color: transparent;
+    }
+    #nav.active #hamburguer::before{
+        transform: rotate(135deg);
+    }
+    #nav.active #hamburguer::after{
+        transform: rotate(-135deg);
+        top: -7px;
+    }
+
+    .card{
+        display: grid;
+        width: 95vw;
     }
     .quarto{
         width: 100vw;
