@@ -4,16 +4,29 @@
     <div>
         <article>
             <section>
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <link href="https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Nunito:wght@200&family=Yellowtail&display=swap" rel="stylesheet">
+                <link rel="stylesheet" href="../siteteste/css/normalize.css">
+                <link rel="stylesheet" href="./include/Style3.css">
+                <title>Document</title>
+            </head>
+            <body>
+                <br>
             <section id="buggy">
         <div class="tit"><h2>Passeio de Buggy</h2></div><br>
-        <img src="./assets/parceiros/buggy.jpg"  height="500px" width="970px" >
+        <img src="./assets/parceiros/buggy.jpg">
         <p>Conheça as dunas da região em um passeio de buggy
             agendado com motoristas credenciados da região.
             
             Antecedência mínima de 6 horas. Valores negociados
             com os motoristas.</p>
     </section>
-
+    <br><br>
     <section id="kit">
         <div class="tit"><h2>Passeio de KiteSurf</h2></div><br>
         <img src="./assets/parceiros/kitesurf.jpg" width="970px" height="500px">
@@ -24,16 +37,16 @@
             Vendas com a Recepção. Antecedência mínima de 24
             horas.</p>
     </section>
-
+    <br><br>
     <section id="jangada">
         <div class="tit"><h2>Passeio de Jangada</h2></div><br>
-        <img src="./assets/parceiros/jangada.webp" width="970px" height="500px">
+        <img src="./assets/parceiros/jangada.jpg" width="970px" height="500px">
         <p>O passeio de jangada está presente em quase todas as cidades litorâneas do nosso país.
              No Nordeste, ele tem uma representatividade ainda maior, sendo simbolismo da cultura
               da região. Para quem está no Ceará e procura esse tipo de diversão, encontrará alguns
                pontos certos. Passeio agendado na Recepção ou diretamente com o dono da embarcação.</p>
     </section>
-
+    <br><br>
     <div class="tit"><h2>Outros Parceiros</h2></div><br>
     <div class="container4">
         <div class="card4">
@@ -104,7 +117,7 @@
 
         <div class="card3">
             <div class="topCard3">
-                <h2 class="titulo">Tribo Jenipapo Canindé</h2>
+                <h2 class="titulo">Jenipapo Canindé</h2>
                 <span class="secondtext">Aquiraz</span>
             </div>
             <div class="mediaCard16"></div>
@@ -123,13 +136,13 @@
             <div class="mediaCard17"></div>
             <div class="botonCard3">
                 <span>Super frequentado por surfistas, onde tem altas ondas, local super tranquilo com um por do
-                    sol magnifico e um mirante.</span>
+                    sol magnifico e um mirante. Local muito conhecido por suas duanas e pedras que aparecem na maré cheia.</span>
             </div>
         </div>
 
         <div class="card3">
             <div class="topCard3">
-                <h2 class="titulo">Riviera Golf Course</h2>
+                <h2 class="titulo">Riviera Golf</h2>
                 <span class="secondtext">Aquiraz</span>
             </div>
             <div class="mediaCard18"></div>
@@ -141,6 +154,10 @@
             </div>
         </div>
     </div>
+            </body>
+            </html>
+
+    
             </section>
             <aside>
             </aside>
