@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,100;1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Nunito:wght@200&family=Yellowtail&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -21,6 +22,7 @@
             <span id="hamburguer"></span>
             </button>
             <ul id="menu" role="menu">
+                <li><a href="index.php">Hotel</a></li>
                 <li><a href="../Control/controle.php?acao=listar">Acomodações</a></li>
                 <li><a href="restaurante.php">Restaurante</a></li>
                 <li><a href="parceiros.php">Parceiros</a></li>
