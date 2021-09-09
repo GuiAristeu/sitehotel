@@ -1,0 +1,138 @@
+body{
+    font-family: Nunito, sans-serif;
+    color: #1c1c1c;
+     
+ }
+ h1, h2, h3, h4{
+     font-family: Asap, sans-serif;
+     color: #000000;
+ }
+#buggy{
+    max-width: 970px;
+    
+    margin: auto;
+    text-align: center;   
+}
+#buggy img{
+   width: 100%;
+  
+}
+.tit{
+    margin: auto;
+    max-width: 970px;
+    border-bottom: 2px solid #000000;
+    border-top: 2px solid #000000;
+    text-align: center;
+    
+}
+#kit{
+    max-width: 970px;
+    margin: auto;
+    text-align: center;   
+}
+#kit img{
+    width: 100%;
+}
+#jangada{
+    max-width: 970px;
+    margin: auto;
+    text-align: center;
+}
+#jangada img{
+    width: 100%;
+}
+.container3{
+    display: flex;
+    max-width: 970px;
+    margin: auto;
+    flex-wrap: wrap;
+    
+    
+}
+.card3{
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 2px 21px #26395338;
+    max-width: 300px;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    
+}
+.topCard3{
+    padding: 20px;
+    padding-top: 0px;
+}
+.botonCard3{
+    padding: 20px;
+}
+.mediaCard13{
+    background: url("../assets/Passeios/beach\ park.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediaCard14{
+    background: url("../assets/Passeios/Prainha--1024x575.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediaCard15{
+    background: url("../assets/Passeios/engenhoca.jfif") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediaCard16{
+    background: url("../assets/Passeios/tribo.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediaCard17{
+    background: url("../assets/Passeios/iguape.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediaCard18{
+    background: url("../assets/Passeios/golf.jfif") center/cover;
+    height: 200px;
+    width: 100%;
+}
+
+.container4{
+    display: flex;
+    max-width: 970px;
+    margin: auto;
+    flex-wrap: wrap;
+    
+    
+}
+.card4{
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 2px 21px #26395338;
+    max-width: 300px;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin: auto;
+    
+}
+.topCard4{
+    padding: 20px;
+    padding-top: 0px;
+}
+.botonCard4{
+    padding: 20px;
+    text-align: center;
+}
+.mediaCard19{
+    background: url("../assets/parceiros/ominibis.png") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediaCard20{
+    background: url("../assets/parceiros/ebooking.jfif") center/cover;
+    height: 200px;
+    width: 100%;
+}
