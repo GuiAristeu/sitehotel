@@ -51,49 +51,49 @@
             <img class="i7" src="./assets/Galeria/img 7.jpg" width="200px" height="200px">
             <img class="i8" src="./assets/Galeria/img 8.webp" width="200px" height="200px">
     </section>
-
-    <div class="tit"><h2>DEPOIMENTOS</h2><br></div><br>
-    <div class="container">
-    
-        <div class="card">
-            <div class="topCard">
-                <h2 class="titulo">Maria Joana</h2>
-                <span class="secondtext">Agosto 18, 2021</span>
-            </div>
-            
-    <div class="botonCard">
-    <span>É um hotel que prima pela qualidade do serviço. Atendimento impecável, funcionários educados e solícitos. Comida
-        excelente, bem preparada, o chefe sempre pronto para atender os pedidos dos hospedes. Os garços, atenciosos e 
-        bem treinados. O café da manhã, em um local com uma vista privilegiada para o mar.</span><br>
-    </div>
+    <section id="depoimentos">
+        <div class="tit"><h2>DEPOIMENTOS</h2><br></div><br>
+        <div class="container">
+        
+            <div class="card">
+                <div class="topCard">
+                    <h2 class="titulo">Maria Joana</h2>
+                    <span class="secondtext">Agosto 18, 2021</span>
+                </div>
+                
+        <div class="botonCard">
+        <span>É um hotel que prima pela qualidade do serviço. Atendimento impecável, funcionários educados e solícitos. Comida
+            excelente, bem preparada, o chefe sempre pronto para atender os pedidos dos hospedes. Os garços, atenciosos e 
+            bem treinados. O café da manhã, em um local com uma vista privilegiada para o mar.</span><br>
         </div>
-        <div class="card">
-            <div class="topCard">
-                <h2 class="titulo">André Mendes</h2>
-                <span class="secondtext">Setembro 05, 2021</span>
             </div>
-    <div class="botonCard">
-    <span>Uma excelente experiência. Perfeitas instalações. Tudo muito bem conservado. Destaque para o aclive do terreno
-que possibilita lindas vistas. Jardim muito bonito e bem cuidado. O local do café da manhã é lindo. A vista é muito
-deslumbrante.</span><br>
-    </div>
+            <div class="card">
+                <div class="topCard">
+                    <h2 class="titulo">André Mendes</h2>
+                    <span class="secondtext">Setembro 05, 2021</span>
+                </div>
+        <div class="botonCard">
+        <span>Uma excelente experiência. Perfeitas instalações. Tudo muito bem conservado. Destaque para o aclive do terreno
+    que possibilita lindas vistas. Jardim muito bonito e bem cuidado. O local do café da manhã é lindo. A vista é muito
+    deslumbrante.</span><br>
         </div>
-        <div class="card">
-            <div class="topCard">
-                <h2 class="titulo">Julia Paz</h2>
-                <span class="secondtext">Julho 10, 2021</span>
             </div>
-    <div class="botonCard">
-    <span>O hotel é bom, o pessoal que trabalho é muito atencioso.
-    Fica em uma boa localização e tem estacionamento coberto e com portões.
-    O café da manhã é bom, adequado ao padrão do hotel.
-    O quarto é amplo, com tv a cabo, bom chuveiro.</span><br>
-    </div>
+            <div class="card">
+                <div class="topCard">
+                    <h2 class="titulo">Julia Paz</h2>
+                    <span class="secondtext">Julho 10, 2021</span>
+                </div>
+        <div class="botonCard">
+        <span>O hotel é bom, o pessoal que trabalho é muito atencioso.
+        Fica em uma boa localização e tem estacionamento coberto e com portões.
+        O café da manhã é bom, adequado ao padrão do hotel.
+        O quarto é amplo, com tv a cabo, bom chuveiro.</span><br>
         </div>
+            </div>
 
 
-    </div>
-    
+        </div>
+    </section>
 
     <script src="./include/main1.js"></script>
 
