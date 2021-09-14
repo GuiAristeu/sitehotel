@@ -120,16 +120,6 @@ border-top: #000000 2px solid;
     border-top: #000000 2px solid;
     
 }
-
-
-.container2{
-    display: flex;
-    max-width: 970px;
-    margin: auto;
-    flex-wrap: wrap;
-    
-    
-}
 .card2{
     background: #fff;
     border-radius: 20px;

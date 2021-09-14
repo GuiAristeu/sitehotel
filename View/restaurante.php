@@ -112,7 +112,7 @@
 <div class="obs"><p>Temos prato kids, buffet para grupos, sanduíche e varias opções para sua família.</p></div><br><br>
 <div class="tit2"><h2>Alguns de nossos drinks</h2></div><br>
 
-<div class="container2">
+<div class="container">
 <div class="card2">
 <div class="topCard2">
 <h2 class="titulo">Coquetel de fruta</h2>
