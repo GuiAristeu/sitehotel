@@ -4,18 +4,6 @@
     <div>
         <article>
             <section>
-            <!DOCTYPE html>
-            <html lang="en">
-            <head>
-                <meta charset="UTF-8">
-                <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <link href="https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Nunito:wght@200&family=Yellowtail&display=swap" rel="stylesheet">
-                <link rel="stylesheet" href="../siteteste/css/normalize.css">
-                <link rel="stylesheet" href="./include/Style3.css">
-                <title>Document</title>
-            </head>
-            <body>
                 <br>
             <section id="buggy">
         <div class="tit"><h2>Passeio de Buggy</h2></div><br>
@@ -154,10 +142,6 @@
             </div>
         </div>
     </div>
-            </body>
-            </html>
-
-    
             </section>
             <aside>
             </aside>

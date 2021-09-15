@@ -1,19 +1,6 @@
 <?php
     include('include/header.php');
 ?>
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Nunito:wght@200&family=Yellowtail&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../View/include/normalize.css">
-    <link rel="stylesheet" href="./include/Style1.css">
-    <title>Document</title>
-</head>
-<body>
-
     <section id="historia">
         <h2>HOTEL POR DO SOL</h2>
         <p>
@@ -96,9 +83,6 @@
     </section>
 
     <script src="./include/main1.js"></script>
-
-</body>
-</html>
 <?php
     include('include/footer.php');
 ?>  

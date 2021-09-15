@@ -70,59 +70,6 @@ footer{
     padding: 10px;
 }
 
-#titulo{
-    text-align: center;
-    border-top: 2px solid #000000;
-    border-bottom: 2px solid #000000;
-    font-family: Asap, sans-serif;
-    color: #000;
-    margin-left: 10vw;
-    margin-right: 10vw;
-}
-
-#descricao{
-    text-align: center;
-    font-family: Nunito, sans-serif;
-    font-size: 1.5vw;
-    color: #1c1c1c;
-    margin-left: 10vw;
-    margin-right: 10vw;
-}
-
-.container{
-    width: 100vw;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    
-}
-.card{
-    display: flex;
-    margin-top: 15px;
-    justify-content: center;
-    height: 100%;
-    width: 100vw;
-}
-.quarto{
-    width: 40vw;
-}
-.desc{
-    background-color: rgba(0,0,0,.10);
-    width: 40vw;
-    text-align: center;
-    line-height: 3vw;
-}
-.desc h3{
-    border-bottom: 2px solid #000000;
-    font-family: Asap, sans-serif;
-    font-size: 2vw;
-    color: #000;
-}
-.desc span{
-    font-family: Nunito, sans-serif;
-    font-size: 1.5vw;
-    color: #1c1c1c;
-}
 @media (max-width: 600px){
     #menu{
         display: block;
@@ -180,23 +127,5 @@ footer{
     #nav.active #hamburguer::after{
         transform: rotate(-135deg);
         top: -7px;
-    }
-
-    .card{
-        display: grid;
-        width: 95vw;
-    }
-    .quarto{
-        width: 100vw;
-    }
-    .desc{
-        line-height: 4.5vw;
-        width: 100vw;
-    }
-    .desc h3{
-        font-size: 4vw
-    }
-    .desc span{
-        font-size: 3.5vw;
     }
 }

@@ -1,0 +1,43 @@
+#container-quartos{
+    width: 100vw;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+#card-quartos{
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+    height: 100%;
+    width: 100vw;
+}
+.quarto{
+    width: 40vw;
+}
+#desc{
+    background-color: rgba(0,0,0,.10);
+    width: 40vw;
+    text-align: center;
+    line-height: 3vw;
+}
+
+@media (max-width: 600px){
+    #card-quartos{
+        display: grid;
+        width: 95vw;
+    }
+    .quarto{
+        width: 100vw;
+    }
+    #desc{
+        line-height: 4.5vw;
+        width: 100vw;
+    }
+    #desc h3{
+        font-size: 4vw
+    }
+    #desc span{
+        font-size: 3.5vw;
+    }
+}

@@ -1,0 +1,21 @@
+h1, h2, h3, h4{
+    font-family: Asap, sans-serif;
+    color: #000000;
+    border-bottom: 2px solid #000000;
+    border-top: 2px solid #000000;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+p span{
+    font-family: Nunito, sans-serif;
+    color: #1c1c1c;
+    padding-bottom: 20px;
+}
+
+.titulos{
+    max-width: 970px;
+    margin: auto;
+    text-align: center;
+}

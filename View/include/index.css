@@ -1,18 +1,8 @@
-body{
-    font-family: Nunito, sans-serif;
-    color: #1c1c1c;
-     
- }
- h1, h2, h3, h4{
-     font-family: Asap, sans-serif;
-     color: #000000;
- }
- #banner-principal{
+#banner-principal{
      width: 100%;
      height: 500px
-     
-   
  }
+
  #banner-principal img {
      width: 100%;
      height: 500px;
@@ -30,23 +20,11 @@ body{
     max-width: 970px;
     text-align: center;
 }
-#historia h2{
-    border-bottom: 2px solid #000000;
-    border-top: 2px solid #000000;
-}
-#historia p{
-    
-    padding-bottom: 20px;
-}
 
 #promocao{
     margin: auto;
     max-width: 970px;
     text-align: center;
-}
-#promocao h2{
-    border-bottom: 2px solid #000000;
-    border-top: 2px solid #000000;
 }
 #promocao img{
     margin-top: 20px;
@@ -58,10 +36,6 @@ body{
     margin: auto;
     max-width: 970px;
     text-align: center;
-}
-#fotos h2{
-    border-bottom: 2px solid #000000;
-    border-top: 2px solid #000000;
 }
 
 #fotos img{
@@ -81,10 +55,9 @@ body{
     display: flex;
     max-width: 970px;
     margin: auto;
-    flex-wrap: wrap;
-    
-    
+    flex-wrap: wrap;  
 }
+
 .card{
     background: #fff;
     border-radius: 20px;
@@ -95,22 +68,22 @@ body{
     margin-top: 11px;
     margin-bottom: 11px;
     margin: auto;
-    
 }
+
 .topCard{
     padding: 20px;
     padding-top: 0px;
 }
+
 .botonCard{
     padding: 20px;
     text-align: center;
     align-items: center;
 }
+
 .tit{
     margin: auto;
     text-align: center;
-    border-bottom: #000000 2px solid;
-    border-top: #000000 2px solid;
 }
 
 
