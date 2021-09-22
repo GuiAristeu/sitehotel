@@ -151,11 +151,4 @@
     height: 200px;
     width: 100%;
 }
-@media (max-width: 600px){
-    .container3{
-        margin-left: 25vw;
-    }
-    .card4:nth-child(2){
-        margin-top: 25px;
-    }
-}
+

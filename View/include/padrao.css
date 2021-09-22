@@ -37,8 +37,19 @@ p span{
 }
 .titulopadrao{
     margin: auto;
-    width: 970px;
+    max-width: 970px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+@media (max-width: 600px){
+    .container{
+        margin-left: 25vw;
+    }
+    .container3{
+        margin-left: 25vw;
+    }
+    .card4:nth-child(2){
+        margin-top: 25px;
+    }
 }
