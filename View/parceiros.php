@@ -4,7 +4,7 @@
     <div>
         <article>
             <section>
-                <br>
+            <div class="fundo">
             <section id="buggy">
         <div class="tit"><h2>Passeio de Buggy</h2></div><br>
         <img src="./assets/parceiros/buggy.jpg">
@@ -13,19 +13,24 @@
             
             Antecedência mínima de 6 horas. Valores negociados
             com os motoristas.</p>
-    </section>
-    <br><br>
-    <section id="kit">
-        <div class="tit"><h2>Passeio de KiteSurf</h2></div><br>
-        <img src="./assets/parceiros/kitesurf.jpg" width="970px" height="500px">
-        <p>O litoral do Ceará é um paraíso para os praticantes do
-            Kite. As aulas são agendadas com professores da
-            região.
+            </section>
+            </div>
+
             
-            Vendas com a Recepção. Antecedência mínima de 24
-            horas.</p>
-    </section>
-    <br><br>
+            <div class="fundo">
+              <section id="kit">
+              <div class="titulopadrao"><h2>Passeio de KiteSurf</h2></div>
+               <img src="./assets/parceiros/kitesurf.jpg" width="970px" height="500px">
+               <p>O litoral do Ceará é um paraíso para os praticantes do
+               Kite. As aulas são agendadas com professores da
+               região.
+            
+               Vendas com a Recepção. Antecedência mínima de 24
+               horas.</p>
+              </section>
+            </div>
+
+    <div class="fundo">
     <section id="jangada">
         <div class="tit"><h2>Passeio de Jangada</h2></div><br>
         <img src="./assets/parceiros/jangada.jpg" width="970px" height="500px">
@@ -34,8 +39,10 @@
               da região. Para quem está no Ceará e procura esse tipo de diversão, encontrará alguns
                pontos certos. Passeio agendado na Recepção ou diretamente com o dono da embarcação.</p>
     </section>
-    <br><br>
-    <div class="tit"><h2>Outros Parceiros</h2></div><br>
+    </div>
+    
+    <div class="fundo">
+    <div class="titulopadrao"><h2>Outros Parceiros</h2></div><br>
     <div class="container4">
         <div class="card4">
             <div class="topCard4">
@@ -48,7 +55,7 @@
                 <a href="https://omnibees.com/"><button>Acessar</button></a>
             </div>
         </div>
-
+    
         <div class="card4">
             <div class="topCard4">
                 <h2 class="titulo">Ebooking</h2>
@@ -60,9 +67,11 @@
                 <a href="https://www.ebooking.com/pt/"><button>Acessar</button></a>
             </div>
         </div>
-        </div><br>
-    
-    <div class="tit"><h2>Dicas de passeio</h2></div><br>
+        </div>
+        </div>
+        
+        <div class="fundo">
+    <div class="titulopadrao"><h2>Dicas de passeio</h2></div><br>
     <div class="container3">
         <div class="card3">
             <div class="topCard3">
@@ -141,6 +150,7 @@
                        hectares.</span>
             </div>
         </div>
+    </div>
     </div>
             </section>
             <aside>

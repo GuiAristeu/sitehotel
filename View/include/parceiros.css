@@ -1,7 +1,9 @@
 #buggy{
     max-width: 970px;
     margin: auto;
-    text-align: center;   
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;     
 }
 
 #buggy img{
@@ -19,7 +21,9 @@
 #kit{
     max-width: 970px;
     margin: auto;
-    text-align: center;   
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;   
 }
 
 #kit img{
@@ -31,6 +35,8 @@
     max-width: 970px;
     margin: auto;
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;  
 }
 
 #jangada img{
@@ -43,6 +49,8 @@
     max-width: 970px;
     margin: auto;
     flex-wrap: wrap;
+    padding-top: 20px;
+    padding-bottom: 20px;  
 }
 
 .card3{
@@ -105,7 +113,9 @@
     display: flex;
     max-width: 970px;
     margin: auto;
-    flex-wrap: wrap;  
+    flex-wrap: wrap; 
+    padding-top: 20px;
+    padding-bottom: 20px;   
 }
 
 .card4{
