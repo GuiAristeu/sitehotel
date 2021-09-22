@@ -128,5 +128,9 @@ footer{
         transform: rotate(-135deg);
         top: -7px;
     }
+    
+    .rodape li a{
+        font-size: 1rem;
+    }
 
 }
