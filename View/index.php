@@ -1,15 +1,14 @@
 <?php
     include('include/header.php');
 ?>
-    <div class="fundo">
+    
     <section id="historia">
       <h1>HOTEL POR DO SOL</h1>
       <p>
       Localizado numa praia paradisíaca(Praia do Presídio), onde tem a união do rio com o mar,
       lugar que é bastante procurado para descanso, lazer, eventos e casamentos, a 46km da capital  Fortaleza e 16,6km de Aquiraz. Contamos com uma infraestrutura completa de lazer e entretenimento. Dispomos de profisionais treinados e capacitados para oferecer um atendimento de qualidade. Tudo isso com o único objetivo: Deixar a sua estadia ainda mais agradável.
     </div>   
-    </section>
-    </div> 
+    </section> 
 
     <div id="banner-principal">
         <img class="selected" src="./assets/hotel/hotel.jpg">
@@ -17,7 +16,6 @@
         <img src="./assets/hotel/bar.jpg">
     </div>
     
-    <div class="fundo">
     <div class="titulopadrao"><h2>CELEBRE NO HOTEL POR DO SOL</h2></div>
     <section id="promocao">
        
@@ -28,9 +26,7 @@
         <p>Faça sua pré-reserva e saiba mais!</p>
         <img src="../View/assets/heveillon.png" width="970px" height="485px">
     </section>
-    </div>
     
-    <div class="fundo">
     <div class="titulopadrao"><h2>FOTOS</h2></div>
     <section id="fotos">
         
@@ -45,9 +41,7 @@
             <img class="i7" src="./assets/Galeria/img 7.jpg" width="200px" height="200px">
             <img class="i8" src="./assets/Galeria/img 8.webp" width="200px" height="200px">
     </section>
-    </div>
     
-    <div class="fundo">
     <div class="titulopadrao"><h2>DEPOIMENTOS</h2></div>
     <section id="depoimentos">
       <div class="container">
@@ -86,7 +80,6 @@
             Fica em uma boa localização e tem estacionamento coberto e com portões.
             O café da manhã é bom, adequado ao padrão do hotel.
             O quarto é amplo, com tv a cabo, bom chuveiro.</span><br>
-        </div>
         </div>
         </div>
 

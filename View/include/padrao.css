@@ -1,4 +1,11 @@
 
+body{
+    background: url(../assets/Backgoound/fundo9.png) center;
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-attachment: fixed;
+}
 h1, h3, h4{
     font-family: Asap, sans-serif;
     color: #000000;
@@ -28,13 +35,7 @@ p span{
     margin: auto;
     text-align: center;
 }
-.fundo{
-    background: url(../assets/Backgoound/fundo9.png) center;
-    width: 100%;
-    height: auto;
-    background-size: cover;
-    background-attachment: fixed;
-}
+
 .titulopadrao{
     margin: auto;
     max-width: 970px;

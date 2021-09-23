@@ -1,7 +1,7 @@
 <?php
     include('include/header.php');
 ?>
-<div class="fundo">
+
     <br><br>
 <div class="entrada">O melhor da região, restaurante frente mar</div>
 <section id="fotos">
@@ -26,9 +26,7 @@
 
 <div class="Titulo">Restaurante Por do Sol</div>
 <div class="Titulo2">Venha saborear nossa gastronomia</div><br><br>
-</div>  
-
-<div class="fundo">
+  
 <div class="titulopadrao"><h2>Pratos mais pedidos</h2></div>
 <div class="container">
 
@@ -99,10 +97,9 @@
 </div>
 </div><br>
 <div class="titulos"><p>Temos prato kids, buffet para grupos, sanduíche e varias opções para sua família.</p></div><br><br>
-</div>
 
 
-<div class="fundo">
+
 <div class="titulopadrao"><h2>Alguns de nossos drinks</h2></div>
 <div class="container">
 <div class="card2">
@@ -171,10 +168,7 @@
 </div>
 </div>
 </div>
-</div>
 
-
-<div class="fundo">
 <div class="titulopadrao"><h2>Horário de funcionamento</h2></div>
 <div class="titulos">
 <p>Café da manhã para visitante de 7:00 às 10:00, obs ligar antes para reservar, e taxa cobrada por pessoa.</p>
@@ -182,7 +176,6 @@
 <p>Nosso restaurante do deck é aberto ao publico, funcionando de 10:00 às 22:00</p>
 <p>Cobramos 10%, sendo opicional.</p>
 </div><br><br>
-</div>
   
 <?php
     include('include/footer.php');
