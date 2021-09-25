@@ -1,0 +1,38 @@
+#duvidas{
+    margin: auto;
+    max-width: 970px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.opcoes{
+    margin-top: 25px;
+    background-color: #089DC2;
+    max-width: 50vw;
+    color: white;
+}
+
+.opcoes:hover{
+    cursor: pointer;
+}
+
+.link{
+    color: #089DC2;
+}
+
+#resposta1{
+    display: none;
+    max-width: 50vw;
+    background-color: white;
+}
+#resposta2{
+    display: none;
+    max-width: 50vw;
+    background-color: white;
+}
+#resposta3{
+    display: none;
+    max-width: 50vw;
+    background-color: white;
+}

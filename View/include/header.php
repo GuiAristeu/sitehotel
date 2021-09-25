@@ -27,7 +27,7 @@
                 <li><a href="../Control/controle.php?acao=listar">Acomodações</a></li>
                 <li><a href="restaurante.php">Restaurante</a></li>
                 <li><a href="parceiros.php">Parceiros</a></li>
-                <li><a href="duvidas.php">Dúvidas</a></li>
+                <li><a href="#duvidas">Dúvidas</a></li>
                 <li><a href="#rodape">Contato</a></li>
             </ul>
         </nav>
