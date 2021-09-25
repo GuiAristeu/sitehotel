@@ -54,7 +54,8 @@
 }
 
 .card3{
-    background-color: rgba(0,0,0,.10);
+    background-color: rgba(0,0,0,.45);
+    color: white;
     border-radius: 20px;
     box-shadow: 0px 2px 21px #26395338;
     max-width: 300px;
@@ -119,7 +120,8 @@
 }
 
 .card4{
-    background-color: rgba(0,0,0,.10);
+    background-color: rgba(0,0,0,.45);
+    color: white;
     border-radius: 20px;
     box-shadow: 0px 2px 21px #26395338;
     max-width: 300px;
