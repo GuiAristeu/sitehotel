@@ -15,7 +15,7 @@ $quartos = $_SESSION["quartos"];
         <section id="container-quartos">
         <?php foreach ($quartos as $quarto){ ?>
         <div id="card-quartos">
-            <div id="card-image"><img class="quarto" src="../upload/<?php echo $quarto->getFoto();?>" alt="" style="height: 100%;"></div>
+            <div id="card-image"><img class="quarto" src="upload/<?php echo $quarto->getFoto();?>" alt="" style="height: 100%;"></div>
             <div id="desc">
                 <h3><?php echo $quarto->getNome();?></h3>
                 <span><?php echo $quarto->getDesc();?></span><br>

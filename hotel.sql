@@ -29,10 +29,10 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `quarto` (
   `id` int(10) NOT NULL,
-  `nome` varchar(20) COLLATE latin1_general_ci NOT NULL,
-  `descricao` varchar(500) COLLATE latin1_general_ci NOT NULL,
-  `foto` varchar(100) COLLATE latin1_general_ci NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;
+  `nome` varchar(20) COLLATE utf8_general_ci NOT NULL,
+  `descricao` varchar(500) COLLATE utf8_general_ci NOT NULL,
+  `foto` varchar(100) COLLATE utf8_general_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
 --
 -- Extraindo dados da tabela `quarto`
