@@ -9,7 +9,7 @@
 .opcoes{
     margin-top: 25px;
     background-color: #089DC2;
-    max-width: 50vw;
+    max-width: 970px;
     color: white;
 }
 
@@ -23,16 +23,16 @@
 
 #resposta1{
     display: none;
-    max-width: 50vw;
+    max-width: 970px;
     background-color: white;
 }
 #resposta2{
     display: none;
-    max-width: 50vw;
+    max-width: 970px;
     background-color: white;
 }
 #resposta3{
     display: none;
-    max-width: 50vw;
+    max-width: 970px;
     background-color: white;
 }
