@@ -24,7 +24,7 @@
             </button>
             <ul id="menu" role="menu">
                 <li><a href="index.php">Hotel</a></li>
-                <li><a href="../Control/controle.php?acao=listar">Acomodações</a></li>
+                <li><a href="quartos.php?acao=listar">Acomodações</a></li>
                 <li><a href="restaurante.php">Restaurante</a></li>
                 <li><a href="parceiros.php">Parceiros</a></li>
                 <li><a href="#duvidas">Dúvidas</a></li>
