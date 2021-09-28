@@ -24,7 +24,7 @@
         <p>Os pequenos terão uma agenda cheia, com aventuras de tirar o fôlego, enquanto os pais deleitam-se em nossa icônica piscina acompanhados de bons drinks!</p>
         <p>Nossos novos protocolos de segurança foram pensados em cada detalhe, desde sua chegada no Hotel Por do Sol, até a noite de Réveillon, onde cada família terá sua mesa exclusiva!</p>
         <p>Faça sua pré-reserva e saiba mais!</p>
-        <img src="../View/assets/heveillon.png" width="970px" height="485px">
+        <img src="./assets/heveillon.png" width="970px" height="485px">
     </section>
     
     <div class="titulopadrao"><h2>FOTOS</h2></div>

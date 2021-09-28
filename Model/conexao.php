@@ -21,6 +21,7 @@ class Conexao{
         }else{
             echo "Banco selecionado";
         }
+        mysqli_set_charset($this->myconn, "utf8mb4");
         return $this->myconn;
     }
     
