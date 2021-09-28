@@ -48,10 +48,10 @@ p span{
 }
 @media (max-width: 600px){
     .container{
-        margin-left: 25vw;
+        margin-left: 18vw;
     }
     .container3{
-        margin-left: 25vw;
+        margin-left: 18vw;
     }
     .card4:nth-child(2){
         margin-top: 25px;

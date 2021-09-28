@@ -1,6 +1,6 @@
 #duvidas{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -9,7 +9,7 @@
 .opcoes{
     margin-top: 25px;
     background-color: #089DC2;
-    max-width: 970px;
+    max-width: 80vw;
     color: white;
 }
 
@@ -23,16 +23,16 @@
 
 #resposta1{
     display: none;
-    max-width: 970px;
+    max-width: 80vw;
     background-color: white;
 }
 #resposta2{
     display: none;
-    max-width: 970px;
+    max-width: 80vw;
     background-color: white;
 }
 #resposta3{
     display: none;
-    max-width: 970px;
+    max-width: 80vw;
     background-color: white;
 }

@@ -1,5 +1,5 @@
 #buggy{
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     text-align: center;
     padding-top: 20px;
@@ -13,13 +13,13 @@
 
 .tit{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     
 }
 
 #kit{
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     text-align: center;
     padding-top: 20px;
@@ -32,7 +32,7 @@
 }
 
 #jangada{
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     text-align: center;
     padding-top: 20px;
@@ -46,7 +46,7 @@
 
 .container3{
     display: flex;
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     flex-wrap: wrap;
     padding-top: 20px;
@@ -112,7 +112,7 @@
 
 .container4{
     display: flex;
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     flex-wrap: wrap; 
     padding-top: 20px;
@@ -153,4 +153,5 @@
     height: 200px;
     width: 100%;
 }
+
 

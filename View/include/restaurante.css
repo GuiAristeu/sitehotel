@@ -1,6 +1,6 @@
 .entrada{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     font-family: Allison, cursive ;
     color: #000000;
@@ -22,7 +22,7 @@
 
 .Titulo{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     font-family: Asap, sans-serif ;
     color: blue;
@@ -31,7 +31,7 @@
 
 .Titulo2{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     font-family: Allison, cursive ;
     color: #000000;
@@ -40,7 +40,7 @@
 
 .container{
     display: flex;
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     flex-wrap: wrap;   
 }
@@ -105,7 +105,7 @@
 
 .container2{
     display: flex;
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     flex-wrap: wrap;  
 }
