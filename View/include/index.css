@@ -1,10 +1,10 @@
 #banner-principal{
-     width: 100%;
-     height: 500px
+     width: 100vw;
+     height: 500px;
  }
 
  #banner-principal img {
-     width: 100%;
+     width: 100vw;
      height: 500px;
      object-fit: cover;
      opacity: 0;
@@ -17,7 +17,7 @@
 
  #historia {
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -25,7 +25,7 @@
 
 #promocao{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -38,7 +38,7 @@
 
 #fotos{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -53,29 +53,26 @@
 
 #depoimentos{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-.container{
+.containerDe{
     display: flex;
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     flex-wrap: wrap;  
 }
 
-.card{
+.cardDe{
     background: #fff;
     border-radius: 20px;
     box-shadow: 0px 2px 21px #26395338;
-    max-width: 970pxpx;
-    margin-left: 11px;
-    margin-right: 11px;
-    margin-top: 11px;
-    margin-bottom: 11px;
+    max-width: 80vw;
     margin: auto;
+    text-align: center;
 }
 
 .topCard{
@@ -92,6 +89,11 @@
 .tit{
     margin: auto;
     text-align: center;
+}
+@media (max-width: 600px){
+    .containerDe{
+        margin-left: 0vw;
+    }
 }
 
 

@@ -34,14 +34,14 @@ p span{
 }
 
 .titulos{
-    max-width: 970px;
+    max-width: 80vw;
     margin: auto;
     text-align: center;
 }
 
 .titulopadrao{
     margin: auto;
-    max-width: 970px;
+    max-width: 80vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;

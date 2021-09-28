@@ -44,9 +44,9 @@
     
     <div class="titulopadrao"><h2>DEPOIMENTOS</h2></div>
     <section id="depoimentos">
-      <div class="container">
+      <div class="containerDe">
         
-        <div class="card">
+        <div class="cardDe">
           <div class="topCard">
             <h2 class="titulo">Maria Joana</h2>
             <span class="secondtext">Agosto 18, 2021</span>
@@ -58,7 +58,7 @@
         </div>
         </div>
 
-        <div class="card">
+        <div class="cardDe">
           <div class="topCard">
             <h2 class="titulo">André Mendes</h2>
             <span class="secondtext">Setembro 05, 2021</span>
@@ -70,7 +70,7 @@
         </div>
         </div>
 
-        <div class="card">
+        <div class="cardDe">
           <div class="topCard">
             <h2 class="titulo">Julia Paz</h2>
             <span class="secondtext">Julho 10, 2021</span>
